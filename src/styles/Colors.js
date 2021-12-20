@@ -1,0 +1,15 @@
+export const BACKGROUND_COLOR = '#f4f4f4'
+export const BACKGROUND_COLOR_TAB = '#f5f5f5'
+export const BACKGROUND_COLOR_TRANS = 'rgba(255, 255, 255, 0.1)'
+
+export const OCEAN_BLUE = '#006fb9'
+export const BLUE_lINKTO = '#186EDC';
+export const GREEN = '#28892b'
+export const YELLOW = '#ffd700'
+export const RED = '#ef3742'
+export const WHITE = '#ffffff'
+export const BLACK = '#000000'
+export const BROWN_GREY = '#888888'
+export const BROWN_LIGHT_GREY = '#e1e1e1'
+export const BROWN_RELIGHT_GREY = '#f4f4f4'
+export const GREY = '#bfbfbf'

@@ -1,0 +1,6 @@
+framework module Pods_Visitas_tvOSTests {
+  umbrella header "Pods-Visitas-tvOSTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Visitas_tvOS {
+  umbrella header "Pods-Visitas-tvOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

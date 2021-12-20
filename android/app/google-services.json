@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336808475856",
+    "firebase_url": "https://vistas-y-tubos.firebaseio.com",
+    "project_id": "vistas-y-tubos",
+    "storage_bucket": "vistas-y-tubos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336808475856:android:c2954b7127b8f674",
+        "android_client_info": {
+          "package_name": "cl.bci.visitas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336808475856-0r8kficvag90q8s536jkd3vgj52smsi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxePIw-2DQHqbVVDOb_YvKwlRAE_LEae0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336808475856-0r8kficvag90q8s536jkd3vgj52smsi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
